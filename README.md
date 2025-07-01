@@ -5,3 +5,6 @@ This is some very old Visual Basic 6 (VB6) code I wrote years ago. It’s not ac
 If you’re curious or can learn something from it — feel free to dig in. Just be aware that it reflects a much earlier stage of development practices and tooling.
 
 Use at your own discretion.
+
+---
+See more projects at [ChilSoft](https://chilsoft.com/)
